@@ -6,18 +6,14 @@ import matplotlib.pyplot as plt
 
 
 DATA_FOLDER = "~/armory/mcdonalds/data/"
-DATA_FILE = "McDonaldsMenuNutritionV3.csv"
+DATA_FILE = "mcds.csv"
 
 def general_stats(data):
-    print(data.head())
-    print(data.shape)
-    print(data.info())
-    print(data.describe())
+    print(data)
 
 def main():
-    raw_data = pd.read_csv(path.join(DATA_FOLDER, DATA_FILE))
-    corr = raw_data.corr(numeric_only=True)
-    print(corr)
+    mcds = pd.read_csv(path.join(DATA_FOLDER, DATA_FILE))
+    print(mcds.columns)
 
 
 if __name__ == "__main__":
