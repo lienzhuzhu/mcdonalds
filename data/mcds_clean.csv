@@ -3,17 +3,17 @@ Hamburger,250,80.0,9.0,3.5,0.5,25,520,31,2,6,12,247.5
 Cheeseburger,300,110.0,12.0,6.0,0.5,40,750,33,2,6,15,297.0
 Double Cheeseburger,440,210.0,23.0,11.0,1.5,80,1150,34,2,7,25,433.0
 McDouble,390,170.0,19.0,8.0,1.0,65,920,33,2,7,22,383.0
- Quarter Pounder® with Cheese,510,230.0,26.0,12.0,1.5,90,1190,40,3,9,29,502.0
-Double Quarter Pounder® with Cheese,740,380.0,42.0,19.0,2.5,155,1380,40,3,9,48,720.0
-Big Mac®,540,260.0,29.0,10.0,1.5,75,1040,45,3,9,25,534.0
-Big N’ Tasty®,460,220.0,24.0,8.0,1.5,70,720,37,3,8,24,452.0
-Big N’ Tasty® with Cheese,510,250.0,28.0,11.0,1.5,85,960,38,3,8,27,502.0
+ Quarter Pounder with Cheese,510,230.0,26.0,12.0,1.5,90,1190,40,3,9,29,502.0
+Double Quarter Pounder with Cheese,740,380.0,42.0,19.0,2.5,155,1380,40,3,9,48,720.0
+Big Mac,540,260.0,29.0,10.0,1.5,75,1040,45,3,9,25,534.0
+Big N’ Tasty,460,220.0,24.0,8.0,1.5,70,720,37,3,8,24,452.0
+Big N’ Tasty with Cheese,510,250.0,28.0,11.0,1.5,85,960,38,3,8,27,502.0
 Angus Bacon & Cheese,790,350.0,39.0,17.0,2.0,145,2070,63,4,13,45,775.0
 Angus Deluxe,750,350.0,39.0,16.0,2.0,135,1700,61,4,10,40,736.0
 Angus Mushroom & Swiss,770,360.0,40.0,17.0,2.0,135,1170,59,4,8,44,751.0
-Filet-O-Fish®,380,170.0,18.0,3.5,0.0,40,640,38,2,5,15,373.5
-McChicken ®,360,150.0,16.0,3.0,0.0,35,830,40,2,5,14,354.0
-McRib ®,500,240.0,26.0,10.0,0.0,70,980,44,3,11,22,499.0
+Filet-O-Fish,380,170.0,18.0,3.5,0.0,40,640,38,2,5,15,373.5
+McChicken ,360,150.0,16.0,3.0,0.0,35,830,40,2,5,14,354.0
+McRib ,500,240.0,26.0,10.0,0.0,70,980,44,3,11,22,499.0
 Premium Grilled Chicken Classic Sandwich,360,80.0,9.0,2.0,0.0,65,820,41,4,8,27,343.0
 Premium Crispy Chicken Classic Sandwich,510,200.0,22.0,3.5,0.0,45,990,56,3,10,24,499.5
 Premium Grilled Chicken Club Sandwich,460,150.0,17.0,6.0,0.0,90,1040,43,4,9,35,440.0
@@ -21,12 +21,12 @@ Premium Crispy Chicken Club Sandwich,620,260.0,29.0,7.0,0.0,70,1200,57,3,11,31,6
 Premium Grilled Chicken Ranch BLT Sandwich,380,90.0,10.0,3.0,0.0,75,1000,41,4,9,31,361.0
 Premium Crispy Chicken Ranch BLT Sandwich,540,210.0,23.0,4.5,0.0,55,1160,56,3,11,27,528.5
 Southern Style Crispy Chicken Sandwich,400,150.0,17.0,3.0,0.0,45,1030,39,1,6,24,385.0
-Ranch Snack Wrap® (Crispy),340,150.0,17.0,4.5,0.0,30,810,33,1,2,14,332.5
-Ranch Snack Wrap® (Grilled),270,90.0,10.0,4.0,0.0,45,830,26,1,2,18,258.0
-Honey Mustard Snack Wrap® (Crispy),330,140.0,16.0,4.5,0.0,30,780,34,1,4,14,324.5
-Honey Mustard Snack Wrap® (Grilled),260,80.0,9.0,3.5,0.0,45,800,27,1,4,18,249.5
-Chipotle BBQ Snack Wrap® (Crispy),330,140.0,15.0,4.5,0.0,30,810,35,1,4,14,324.5
-Chipotle BBQ Snack Wrap® (Grilled),260,80.0,9.0,3.5,0.0,45,830,28,1,5,18,250.5
+Ranch Snack Wrap (Crispy),340,150.0,17.0,4.5,0.0,30,810,33,1,2,14,332.5
+Ranch Snack Wrap (Grilled),270,90.0,10.0,4.0,0.0,45,830,26,1,2,18,258.0
+Honey Mustard Snack Wrap (Crispy),330,140.0,16.0,4.5,0.0,30,780,34,1,4,14,324.5
+Honey Mustard Snack Wrap (Grilled),260,80.0,9.0,3.5,0.0,45,800,27,1,4,18,249.5
+Chipotle BBQ Snack Wrap (Crispy),330,140.0,15.0,4.5,0.0,30,810,35,1,4,14,324.5
+Chipotle BBQ Snack Wrap (Grilled),260,80.0,9.0,3.5,0.0,45,830,28,1,5,18,250.5
 Angus Bacon & Cheese Snack Wrap,390,190.0,21.0,9.0,1.0,75,1080,28,1,4,21,382.0
 Angus Chipotle BBQ Bacon,800,350.0,39.0,18.0,2.0,145,2020,66,4,16,45,789.0
 Angus Chipotle BBQ Bacon Snack Wrap,400,190.0,22.0,10.0,1.0,75,1060,30,1,6,21,395.0
@@ -38,15 +38,15 @@ Medium French Fries,380,170.0,19.0,2.5,0.0,0,270,48,5,0,4,378.5
 Large French Fries,500,220.0,25.0,3.5,0.0,0,350,63,6,0,6,497.5
 Ketchup Packet,15,0.0,0.0,0.0,0.0,0,110,3,0,2,0,17.0
 Salt Packet,0,0.0,0.0,0.0,0.0,0,270,0,0,0,0,0.0
-Chicken McNuggets® (4 piece),190,110.0,12.0,2.0,0.0,25,360,12,1,0,9,183.0
-Chicken McNuggets® (6 piece),280,160.0,18.0,3.0,0.0,40,540,18,1,0,13,270.0
-Chicken McNuggets® (10 piece),470,270.0,30.0,5.0,0.0,65,900,30,2,0,22,453.0
+Chicken McNuggets (4 piece),190,110.0,12.0,2.0,0.0,25,360,12,1,0,9,183.0
+Chicken McNuggets (6 piece),280,160.0,18.0,3.0,0.0,40,540,18,1,0,13,270.0
+Chicken McNuggets (10 piece),470,270.0,30.0,5.0,0.0,65,900,30,2,0,22,453.0
 Barbeque Sauce,50,0.0,0.0,0.0,0.0,0,260,12,0,10,0,60.0
 Honey,50,0.0,0.0,0.0,0.0,0,0,12,0,11,0,61.0
 Hot Mustard Sauce,60,20.0,2.5,0.0,0.0,5,250,9,2,6,1,65.0
 Sweet ‘N Sour Sauce,50,0.0,0.0,0.0,0.0,0,150,12,0,10,0,60.0
-Chicken Selects® Premium Breast Strips (3 pc),400,210.0,24.0,3.5,0.0,50,1010,23,0,0,23,380.5
-Chicken Selects® Premium Breast Strips (5 pc),660,360.0,40.0,6.0,0.0,85,1680,39,0,0,38,628.0
+Chicken Selects Premium Breast Strips (3 pc),400,210.0,24.0,3.5,0.0,50,1010,23,0,0,23,380.5
+Chicken Selects Premium Breast Strips (5 pc),660,360.0,40.0,6.0,0.0,85,1680,39,0,0,38,628.0
 Spicy Buffalo Sauce,60,50.0,6.0,1.0,0.0,0,800,1,1,0,0,61.0
 Creamy Ranch Sauce,170,160.0,18.0,3.0,0.0,10,270,2,0,1,0,174.0
 Tangy Honey Mustard Sauce,60,20.0,2.0,0.0,0.0,5,140,10,0,8,0,68.0
@@ -63,14 +63,14 @@ Premium Caesar Salad (without chicken),90,35.0,4.0,2.5,0.0,10,180,9,3,4,7,89.5
 Side Salad,20,0.0,0.0,0.0,0.0,0,10,4,1,2,1,21.0
 Butter Garlic Croutons,60,15.0,1.5,0.0,0.0,0,140,10,1,0,2,58.0
 Snack Size Fruit & Walnut Salad,210,70.0,8.0,1.5,0.0,5,60,31,2,25,4,232.5
-Newman’s Own® Creamy Southwest Dressing,100,50.0,6.0,1.0,0.0,20,340,11,0,3,1,103.0
-Newman’s Own® Creamy Caesar Dressing,190,170.0,18.0,3.5,0.0,20,500,4,0,2,2,193.5
-Newman’s Own® Low Fat Balsamic Vinaigrette,40,25.0,3.0,0.0,0.0,0,730,4,0,3,0,43.0
-Newman’s Own® Low Fat Family Recipe Italian Dressing,60,20.0,2.5,0.0,0.0,0,730,8,0,1,1,60.0
-Newman’s Own® Ranch Dressing,170,130.0,15.0,2.5,0.0,20,530,9,0,4,1,175.5
-Egg McMuffin®,300,110.0,12.0,5.0,0.0,260,820,30,2,3,18,290.0
-Sausage McMuffin®,370,200.0,22.0,8.0,0.0,45,850,29,2,2,14,366.0
-Sausage McMuffin® with Egg,450,250.0,27.0,10.0,0.0,285,920,30,2,2,21,441.0
+Newman’s Own Creamy Southwest Dressing,100,50.0,6.0,1.0,0.0,20,340,11,0,3,1,103.0
+Newman’s Own Creamy Caesar Dressing,190,170.0,18.0,3.5,0.0,20,500,4,0,2,2,193.5
+Newman’s Own Low Fat Balsamic Vinaigrette,40,25.0,3.0,0.0,0.0,0,730,4,0,3,0,43.0
+Newman’s Own Low Fat Family Recipe Italian Dressing,60,20.0,2.5,0.0,0.0,0,730,8,0,1,1,60.0
+Newman’s Own Ranch Dressing,170,130.0,15.0,2.5,0.0,20,530,9,0,4,1,175.5
+Egg McMuffin,300,110.0,12.0,5.0,0.0,260,820,30,2,3,18,290.0
+Sausage McMuffin,370,200.0,22.0,8.0,0.0,45,850,29,2,2,14,366.0
+Sausage McMuffin with Egg,450,250.0,27.0,10.0,0.0,285,920,30,2,2,21,441.0
 English Muffin,160,30.0,3.0,0.5,0.0,0,280,27,2,2,5,157.5
 "Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",420,210.0,23.0,12.0,0.0,235,1160,37,2,3,15,420.0
 "Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",480,240.0,27.0,12.0,0.0,235,1270,43,3,4,15,481.0
@@ -81,15 +81,15 @@ Sausage Biscuit (Large Size Biscuit),480,280.0,31.0,13.0,0.0,30,1190,39,3,3,11,4
 Southern Style Chicken Biscuit (Regular Size Biscuit),410,180.0,20.0,8.0,0.0,30,1180,41,2,3,17,404.0
 Southern Style Chicken Biscuit (Large Size Biscuit),470,220.0,24.0,9.0,0.0,30,1290,46,3,4,17,466.0
 "Steak, Egg & Cheese Bagel",660,300.0,33.0,12.0,1.0,300,1580,56,3,7,33,646.0
-"Bacon, Egg & Cheese McGriddles®",420,160.0,18.0,8.0,0.0,240,1110,48,2,15,15,428.0
-"Sausage, Egg & Cheese McGriddles®",560,290.0,32.0,12.0,0.0,265,1360,48,2,15,20,567.0
-Sausage McGriddles®,420,200.0,22.0,8.0,0.0,35,1030,44,2,15,11,432.0
-Big Breakfast® (Regular Size Biscuit),740,430.0,48.0,17.0,0.0,555,1560,51,3,3,28,732.0
-Big Breakfast® (Large Size Biscuit),800,470.0,52.0,18.0,0.0,555,1680,56,4,3,28,793.0
+"Bacon, Egg & Cheese McGriddles",420,160.0,18.0,8.0,0.0,240,1110,48,2,15,15,428.0
+"Sausage, Egg & Cheese McGriddles",560,290.0,32.0,12.0,0.0,265,1360,48,2,15,20,567.0
+Sausage McGriddles,420,200.0,22.0,8.0,0.0,35,1030,44,2,15,11,432.0
+Big Breakfast (Regular Size Biscuit),740,430.0,48.0,17.0,0.0,555,1560,51,3,3,28,732.0
+Big Breakfast (Large Size Biscuit),800,470.0,52.0,18.0,0.0,555,1680,56,4,3,28,793.0
 Big Breakfast with Hotcakes (Regular Size Biscuit),1090,510.0,56.0,19.0,0.0,575,2150,111,6,17,36,1090.0
 Big Breakfast with Hotcakes (Large Size Biscuit),1150,540.0,60.0,20.0,0.0,575,2260,116,7,17,36,1151.0
 Sausage Burrito,300,140.0,16.0,7.0,0.0,115,830,26,1,2,12,297.0
-McSkillet™ Burrito with Sausage,610,320.0,36.0,14.0,0.5,410,1390,44,3,4,27,601.0
+McSkillet Burrito with Sausage,610,320.0,36.0,14.0,0.5,410,1390,44,3,4,27,601.0
 Hotcakes,350,80.0,9.0,2.0,0.0,20,590,60,3,14,8,358.0
 Hotcakes and Sausage,520,210.0,24.0,7.0,0.0,50,930,61,3,14,15,526.0
 Hotcake Syrup,180,0.0,0.0,0.0,0.0,0,20,45,0,32,0,212.0
@@ -102,7 +102,7 @@ Fruit & Maple Oatmeal,290,40.0,4.5,2.0,0.0,10,160,57,5,32,5,319.0
 Fruit & Maple Oatmeal without Brown Sugar,260,40.0,4.5,2.0,0.0,10,115,48,5,18,5,275.0
 Hamburger Happy Meal,475,,16.0,5.5,0.0,40,690,62,2,20,22,
 4 Piece Chicken McNuggets Happy Meal,395,,17.0,3.5,0.0,35,510,41,1,14,19,
-6 Piece Chicken McNuggets® Happy Meal,475,,22.0,4.5,0.0,50,680,46,2,14,24,
+6 Piece Chicken McNuggets Happy Meal,475,,22.0,4.5,0.0,50,680,46,2,14,24,
 Fruit ‘n Yogurt Parfait (7 oz),160,20.0,2.0,1.0,0.0,5,85,31,1,21,4,178.0
 Low Fat Caramel Dip,70,5.0,0.5,0.0,0.0,5,35,15,0,9,0,79.0
 Vanilla Reduced Fat Ice Cream Cone,150,35.0,3.5,2.0,0.0,15,60,24,0,18,4,166.0
@@ -111,65 +111,65 @@ Strawberry Sundae,280,60.0,6.0,4.0,0.0,25,95,49,1,45,6,323.0
 Hot Caramel Sundae,340,70.0,8.0,5.0,0.0,30,160,60,1,44,7,382.0
 Hot Fudge Sundae,330,90.0,10.0,7.0,0.0,25,180,54,2,48,8,377.0
 Peanuts (for Sundaes),45,30.0,3.5,0.5,0.0,0,0,2,1,0,2,43.5
-McFlurry® with M&M’S® Candies (12 fl oz cup),710,230.0,25.0,16.0,1.0,60,220,105,4,97,15,808.0
-McFlurry® with OREO® Cookies (12 fl oz cup),580,170.0,19.0,10.0,1.0,50,320,89,3,73,13,650.0
+McFlurry with M&M’S Candies (12 fl oz cup),710,230.0,25.0,16.0,1.0,60,220,105,4,97,15,808.0
+McFlurry with OREO Cookies (12 fl oz cup),580,170.0,19.0,10.0,1.0,50,320,89,3,73,13,650.0
 Baked Hot Apple Pie,250,110.0,13.0,7.0,0.0,0,170,32,4,13,2,268.0
 Cinnamon Melts,460,170.0,19.0,9.0,0.0,15,370,66,3,32,6,495.0
-McDonaldland® Cookies,260,70.0,8.0,2.5,0.0,0,300,43,1,13,4,271.5
+McDonaldland Cookies,260,70.0,8.0,2.5,0.0,0,300,43,1,13,4,271.5
 Chocolate Chip Cookie,160,70.0,8.0,3.5,0.0,10,90,21,1,15,2,176.5
 Oatmeal Raisin Cookie,150,50.0,6.0,2.5,0.0,10,135,22,1,13,2,163.5
 Sugar Cookie,160,60.0,7.0,3.0,0.0,5,120,21,0,11,2,172.0
 Apple Dippers with Low Fat Caramel Dip,100,5.0,0.5,0.0,0.0,5,35,23,0,15,0,115.0
-Chocolate McCafé® Shake (12 fl oz cup),580,150.0,17.0,10.0,1.0,50,240,94,1,77,11,656.0
-Chocolate McCafé® Shake (16 fl oz cup),720,180.0,20.0,12.0,1.0,60,300,119,1,98,15,815.0
-Chocolate McCafé® Shake (22 fl oz cup),880,220.0,24.0,15.0,1.5,75,370,147,1,121,18,998.0
-Chocolate Triple Thick® Shake (12 fl oz cup),440,90.0,10.0,6.0,0.5,40,190,76,1,63,10,499.0
-Chocolate Triple Thick® Shake (16 fl oz cup),580,120.0,14.0,8.0,1.0,50,250,102,1,84,13,659.0
-Chocolate Triple Thick® Shake (21 fl oz cup),770,160.0,18.0,11.0,1.0,70,330,134,1,111,18,874.0
-Chocolate Triple Thick® Shake (32 fl oz cup),1160,240.0,27.0,16.0,2.0,100,510,203,2,168,27,1317.0
-Snack Size McFlurry® with M&M’S® Candies,430,140.0,16.0,10.0,0.5,35,130,64,2,59,9,490.0
-Snack Size McFlurry® with OREO® Cookies,340,100.0,12.0,6.0,0.0,30,200,53,2,43,8,381.0
-Strawberry McCafé® Shake (12 fl oz cup),570,150.0,17.0,10.0,1.0,50,170,92,0,79,11,648.0
-Strawberry McCafé® Shake (16 fl oz cup),710,180.0,20.0,12.0,1.0,65,210,116,0,100,14,808.0
-Strawberry McCafé® Shake (22 fl oz cup),860,220.0,24.0,15.0,1.5,75,260,144,0,124,18,981.0
-Strawberry Triple Thick® Shake (12 fl oz cup),420,90.0,10.0,6.0,0.5,40,130,73,0,63,10,479.0
-Strawberry Triple Thick® Shake (16 fl oz cup),560,120.0,13.0,8.0,1.0,50,170,97,0,84,13,639.0
-Strawberry Triple Thick® Shake (21 fl oz cup),740,160.0,18.0,11.0,1.0,70,230,128,0,111,17,845.0
-Strawberry Triple Thick® Shake (32 fl oz cup),1110,240.0,26.0,16.0,2.0,100,350,194,0,168,25,1269.0
-Vanilla McCafé® Shake (12 fl oz cup),540,150.0,16.0,10.0,1.0,45,170,88,0,64,10,604.0
-Vanilla McCafé® Shake (16 fl oz cup),680,180.0,20.0,12.0,1.0,60,220,111,0,82,14,760.0
-Vanilla McCafé® Shake (22 fl oz cup),830,210.0,24.0,14.0,1.5,75,270,138,0,103,17,930.0
-Vanilla Triple Thick Shake® (32 fl oz cup),1110,240.0,26.0,16.0,2.0,100,370,193,0,145,25,1246.0
-Vanilla Triple Thick® Shake (12 fl oz cup),420,90.0,10.0,6.0,0.5,40,140,72,0,54,9,471.0
-Vanilla Triple Thick® Shake (16 fl oz cup),550,120.0,13.0,8.0,1.0,50,190,96,0,72,13,617.0
-Vanilla Triple Thick® Shake (21 fl oz cup),740,160.0,18.0,11.0,1.0,70,250,128,0,96,17,830.0
+Chocolate McCafé Shake (12 fl oz cup),580,150.0,17.0,10.0,1.0,50,240,94,1,77,11,656.0
+Chocolate McCafé Shake (16 fl oz cup),720,180.0,20.0,12.0,1.0,60,300,119,1,98,15,815.0
+Chocolate McCafé Shake (22 fl oz cup),880,220.0,24.0,15.0,1.5,75,370,147,1,121,18,998.0
+Chocolate Triple Thick Shake (12 fl oz cup),440,90.0,10.0,6.0,0.5,40,190,76,1,63,10,499.0
+Chocolate Triple Thick Shake (16 fl oz cup),580,120.0,14.0,8.0,1.0,50,250,102,1,84,13,659.0
+Chocolate Triple Thick Shake (21 fl oz cup),770,160.0,18.0,11.0,1.0,70,330,134,1,111,18,874.0
+Chocolate Triple Thick Shake (32 fl oz cup),1160,240.0,27.0,16.0,2.0,100,510,203,2,168,27,1317.0
+Snack Size McFlurry with M&M’S Candies,430,140.0,16.0,10.0,0.5,35,130,64,2,59,9,490.0
+Snack Size McFlurry with OREO Cookies,340,100.0,12.0,6.0,0.0,30,200,53,2,43,8,381.0
+Strawberry McCafé Shake (12 fl oz cup),570,150.0,17.0,10.0,1.0,50,170,92,0,79,11,648.0
+Strawberry McCafé Shake (16 fl oz cup),710,180.0,20.0,12.0,1.0,65,210,116,0,100,14,808.0
+Strawberry McCafé Shake (22 fl oz cup),860,220.0,24.0,15.0,1.5,75,260,144,0,124,18,981.0
+Strawberry Triple Thick Shake (12 fl oz cup),420,90.0,10.0,6.0,0.5,40,130,73,0,63,10,479.0
+Strawberry Triple Thick Shake (16 fl oz cup),560,120.0,13.0,8.0,1.0,50,170,97,0,84,13,639.0
+Strawberry Triple Thick Shake (21 fl oz cup),740,160.0,18.0,11.0,1.0,70,230,128,0,111,17,845.0
+Strawberry Triple Thick Shake (32 fl oz cup),1110,240.0,26.0,16.0,2.0,100,350,194,0,168,25,1269.0
+Vanilla McCafé Shake (12 fl oz cup),540,150.0,16.0,10.0,1.0,45,170,88,0,64,10,604.0
+Vanilla McCafé Shake (16 fl oz cup),680,180.0,20.0,12.0,1.0,60,220,111,0,82,14,760.0
+Vanilla McCafé Shake (22 fl oz cup),830,210.0,24.0,14.0,1.5,75,270,138,0,103,17,930.0
+Vanilla Triple Thick Shake (32 fl oz cup),1110,240.0,26.0,16.0,2.0,100,370,193,0,145,25,1246.0
+Vanilla Triple Thick Shake (12 fl oz cup),420,90.0,10.0,6.0,0.5,40,140,72,0,54,9,471.0
+Vanilla Triple Thick Shake (16 fl oz cup),550,120.0,13.0,8.0,1.0,50,190,96,0,72,13,617.0
+Vanilla Triple Thick Shake (21 fl oz cup),740,160.0,18.0,11.0,1.0,70,250,128,0,96,17,830.0
 1% Low Fat Milk Jug,100,20.0,2.5,1.5,0.0,10,125,12,0,12,8,105.5
 1% Low Fat Chocolate Milk Jug,170,25.0,3.0,1.5,0.0,5,150,26,1,25,9,187.5
-Minute Maid® 100% Apple Juice Box,100,0.0,0.0,0.0,0.0,0,15,23,0,22,0,122.0
-Dasani® Water,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0.0
-Minute Maid® Orange Juice (Small),150,0.0,0.0,0.0,0.0,0,0,30,0,30,2,178.0
-Minute Maid® Orange Juice (Medium),190,0.0,0.0,0.0,0.0,0,0,39,0,39,3,226.0
-Minute Maid® Orange Juice (Large),280,0.0,0.0,0.0,0.0,0,5,58,0,58,4,334.0
-Coca-Cola® Classic (Child),110,0.0,0.0,0.0,0.0,0,5,29,0,29,0,139.0
-Coca-Cola® Classic (Small),150,0.0,0.0,0.0,0.0,0,10,40,0,40,0,190.0
-Coca-Cola® Classic (Medium),210,0.0,0.0,0.0,0.0,0,15,58,0,58,0,268.0
-Coca-Cola® Classic (Large),310,0.0,0.0,0.0,0.0,0,20,86,0,86,0,396.0
-Diet Coke® (Child),0,0.0,0.0,0.0,0.0,0,15,0,0,0,0,0.0
-Diet Coke® (Small),0,0.0,0.0,0.0,0.0,0,20,0,0,0,0,0.0
-Diet Coke® (Medium),0,0.0,0.0,0.0,0.0,0,30,0,0,0,0,0.0
-Diet Coke® (Large),0,0.0,0.0,0.0,0.0,0,45,0,0,0,0,0.0
-Sprite® (Child),110,0.0,0.0,0.0,0.0,0,30,28,0,28,0,138.0
-Sprite® (Small),150,0.0,0.0,0.0,0.0,0,40,39,0,39,0,189.0
-Sprite® (Medium),210,0.0,0.0,0.0,0.0,0,55,56,0,56,0,266.0
-Sprite® (Large),310,0.0,0.0,0.0,0.0,0,80,83,0,83,0,393.0
-Hi-C® Orange Lavaburst (Child),120,0.0,0.0,0.0,0.0,0,0,32,0,32,0,152.0
-Hi-C® Orange Lavaburst (Small),160,0.0,0.0,0.0,0.0,0,5,44,0,44,0,204.0
-Hi-C® Orange Lavaburst (Medium),240,0.0,0.0,0.0,0.0,0,10,64,0,64,0,304.0
-Hi-C® Orange Lavaburst (Large),350,0.0,0.0,0.0,0.0,0,10,94,0,94,0,444.0
-POWERade® Mountain Blast (Child),70,0.0,0.0,0.0,0.0,0,65,20,0,16,0,86.0
-POWERade® Mountain Blast (Small),100,0.0,0.0,0.0,0.0,0,85,27,0,21,0,121.0
-POWERade® Mountain Blast (Medium),150,0.0,0.0,0.0,0.0,0,130,39,0,31,0,181.0
-POWERade® Mountain Blast (Large),220,0.0,0.0,0.0,0.0,0,190,58,0,46,0,266.0
+Minute Maid 100% Apple Juice Box,100,0.0,0.0,0.0,0.0,0,15,23,0,22,0,122.0
+Dasani Water,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0.0
+Minute Maid Orange Juice (Small),150,0.0,0.0,0.0,0.0,0,0,30,0,30,2,178.0
+Minute Maid Orange Juice (Medium),190,0.0,0.0,0.0,0.0,0,0,39,0,39,3,226.0
+Minute Maid Orange Juice (Large),280,0.0,0.0,0.0,0.0,0,5,58,0,58,4,334.0
+Coca-Cola Classic (Child),110,0.0,0.0,0.0,0.0,0,5,29,0,29,0,139.0
+Coca-Cola Classic (Small),150,0.0,0.0,0.0,0.0,0,10,40,0,40,0,190.0
+Coca-Cola Classic (Medium),210,0.0,0.0,0.0,0.0,0,15,58,0,58,0,268.0
+Coca-Cola Classic (Large),310,0.0,0.0,0.0,0.0,0,20,86,0,86,0,396.0
+Diet Coke (Child),0,0.0,0.0,0.0,0.0,0,15,0,0,0,0,0.0
+Diet Coke (Small),0,0.0,0.0,0.0,0.0,0,20,0,0,0,0,0.0
+Diet Coke (Medium),0,0.0,0.0,0.0,0.0,0,30,0,0,0,0,0.0
+Diet Coke (Large),0,0.0,0.0,0.0,0.0,0,45,0,0,0,0,0.0
+Sprite (Child),110,0.0,0.0,0.0,0.0,0,30,28,0,28,0,138.0
+Sprite (Small),150,0.0,0.0,0.0,0.0,0,40,39,0,39,0,189.0
+Sprite (Medium),210,0.0,0.0,0.0,0.0,0,55,56,0,56,0,266.0
+Sprite (Large),310,0.0,0.0,0.0,0.0,0,80,83,0,83,0,393.0
+Hi-C Orange Lavaburst (Child),120,0.0,0.0,0.0,0.0,0,0,32,0,32,0,152.0
+Hi-C Orange Lavaburst (Small),160,0.0,0.0,0.0,0.0,0,5,44,0,44,0,204.0
+Hi-C Orange Lavaburst (Medium),240,0.0,0.0,0.0,0.0,0,10,64,0,64,0,304.0
+Hi-C Orange Lavaburst (Large),350,0.0,0.0,0.0,0.0,0,10,94,0,94,0,444.0
+POWERade Mountain Blast (Child),70,0.0,0.0,0.0,0.0,0,65,20,0,16,0,86.0
+POWERade Mountain Blast (Small),100,0.0,0.0,0.0,0.0,0,85,27,0,21,0,121.0
+POWERade Mountain Blast (Medium),150,0.0,0.0,0.0,0.0,0,130,39,0,31,0,181.0
+POWERade Mountain Blast (Large),220,0.0,0.0,0.0,0.0,0,190,58,0,46,0,266.0
 Iced Tea (Child),0,0.0,0.0,0.0,0.0,0,5,0,0,0,0,0.0
 Iced Tea (Small),0,0.0,0.0,0.0,0.0,0,10,0,0,0,0,0.0
 Iced Tea (Medium),0,0.0,0.0,0.0,0.0,0,15,0,0,0,0,0.0
@@ -178,10 +178,8 @@ Coffee (Small),0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0.0
 Coffee (Large),0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0.0
 Coffee Cream,20,20.0,2.0,1.5,0.0,10,15,0,0,0,0,21.5
 Sugar Packet,15,0.0,0.0,0.0,0.0,0,0,4,0,4,0,19.0
-"EQUAL® 0
-Calorie Sweetener",0,0.0,0.0,0.0,0.0,0,0,1,0,1,0,1.0
-"SPLENDA® No
-Calorie Sweetener",0,0.0,0.0,0.0,0.0,0,0,1,0,1,0,1.0
+EQUAL 0 Calorie Sweetener,0,0.0,0.0,0.0,0.0,0,0,1,0,1,0,1.0
+SPLENDA No Calorie Sweetener,0,0.0,0.0,0.0,0.0,0,0,1,0,1,0,1.0
 Iced Coffee– Caramel (Small),130,50.0,5.0,3.5,0.0,20,80,21,0,20,1,152.5
 Iced Coffee– Caramel (Medium),190,70.0,8.0,5.0,0.0,30,115,27,0,27,2,220.0
 Iced Coffee– Caramel (Large),270,100.0,11.0,7.0,0.0,40,160,41,0,41,2,316.0
