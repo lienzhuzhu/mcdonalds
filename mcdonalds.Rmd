@@ -1,0 +1,89 @@
+---
+title: "McDonald's Nutrition"
+author: "Lien Zhu"
+date: "2024-12-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Is McDonald's *really* that unhealthy?
+
+Chad Ochocinco Johnson advises athletes under his mentorship to eat McDonald's daily, for multiple meals every day (though, it should be noted that he is a franchisee) and I love the food at McDonald's. It's a solid product.
+
+But public perception scrutinizes this nutritional plan.
+
+So, here we are today to determine if it's possible to eat healthy at McDonald's.
+
+
+## Some questions to answer...
+
+### **1. Is there a balance of macronutrients (protein, fat, carbs) in McDonald’s menu items?**
+
+**Analysis Ideas**:
+
+- Calculate the ratio of macronutrients (protein, fat, carbs) to total calories for each menu item.
+- Identify menu items with a high protein-to-calorie ratio or a balanced macronutrient distribution.
+- Highlight items that could be considered "nutritionally balanced."
+
+**Visualization**:
+
+- Stacked bar chart or ternary plot showing the proportion of calories from protein, fat, and carbs for different menu items or categories.
+
+---
+
+### **2. What are the healthiest options in terms of low saturated fat and high protein?**
+
+**Analysis Ideas**:
+
+- Rank items based on a "health score" (e.g., high protein, low saturated fat, low total calories).
+- Highlight items suitable for fitness enthusiasts or those with specific dietary goals.
+
+**Visualization**:
+
+- Scatter plot of "saturated fat" vs. "protein," highlighting "healthy" items.
+- Bar chart showing "top 5 healthiest menu items."
+
+---
+
+### **3. How does McDonald’s menu compare to daily recommended nutritional values?**
+
+**Analysis Ideas**:
+
+- Compare the nutritional content (calories, sodium, cholesterol) of menu items to daily recommended limits.
+- Highlight items that contribute significantly to or exceed daily intake recommendations.
+
+**Visualization**:
+
+- Bar chart showing percentage of daily recommended intake contributed by key items (e.g., calories, sodium).
+- Heatmap showing items that exceed certain thresholds.
+
+---
+
+### **4. Are there menu items with healthier fat sources?**
+
+**Analysis Ideas**:
+
+- Investigate items with high "other_fat" (fat not from saturated or trans fats) as potentially healthier fat sources.
+- Identify menu categories with the least saturated and trans fats.
+
+**Visualization**:
+
+- Histogram of "other_fat" across menu items.
+- Stacked bar chart of fat types (saturated, trans, other) by menu category.
+
+---
+
+### **5. Can McDonald’s menu fit into weight-loss or fitness plans?**
+
+**Analysis Ideas**:
+
+- Calculate protein-to-calorie ratios and highlight high-protein, low-calorie options.
+- Show how menu items could fit within a 500-calorie meal limit or a fitness-oriented diet.
+
+**Visualization**:
+
+- Scatter plot of "calories" vs. "protein," color-coded by category.
+- Table of items under 500 calories with high protein content.
